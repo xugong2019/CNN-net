@@ -1,0 +1,2 @@
+# CNN-net
+minist recognize
